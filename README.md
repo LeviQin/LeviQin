@@ -34,4 +34,3 @@
 
 ### 📚 技术博客
 [![Blog](https://img.shields.io/badge/Levi's_Blog-FF6B6B?style=for-the-badge&logo=ghost&logoColor=white)](https://leviqin.top)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourname.yourrepo&style=flat&color=0088cc)
